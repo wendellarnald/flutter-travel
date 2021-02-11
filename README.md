@@ -1,6 +1,6 @@
 # Travel
 
-
+Creation of an app design focused on travel, where it features destinations in highlights, and upcoming events.
 
 ## Author
 
